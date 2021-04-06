@@ -1,0 +1,24 @@
+{
+  "name": "firebase-token-gen",
+  "version": "1.0.0",
+  "description": "Firebase token generation tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenkouGmbH/firebase-token-gen.git"
+  },
+  "author": "Teimuraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenkouGmbH/firebase-token-gen/issues"
+  },
+  "homepage": "https://github.com/KenkouGmbH/firebase-token-gen#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  }
+}
